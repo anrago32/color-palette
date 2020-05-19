@@ -1,6 +1,6 @@
 # Color Palette
 
-This is a hexadecimal color palette written in HTML.
+This is a color palette written in HTML.
 
 ## License
 
